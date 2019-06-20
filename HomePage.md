@@ -1,3 +1,5 @@
+<a href="HomePage.md">Home</a>
+<a href="About">Computer Science 10</a>
 <a href="CSE10.md">Computer Science 10</a> 
 <a href="CSE20.md">Computer Science 20</a>
 <a href="CSE30.md">Computer Science 30</a>
