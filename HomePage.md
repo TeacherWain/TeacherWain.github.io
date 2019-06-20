@@ -1,5 +1,5 @@
 <a href="CSE10.md">Computer Science 10</a> 
-<a href="CSE20.md">Computer Science 20/a>
+<a href="CSE20.md">Computer Science 20</a>
 <a href="CSE30.md">Computer Science 30</a>
 
 # COMPUTER SCIENCE IS FOR EVERYONE
