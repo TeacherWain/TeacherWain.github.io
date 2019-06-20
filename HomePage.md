@@ -1,3 +1,5 @@
+<a href="CSE10.md">Computer Science 10</a>
+
 # COMPUTER SCIENCE IS FOR EVERYONE
 
 ## MISSION STATEMENT
