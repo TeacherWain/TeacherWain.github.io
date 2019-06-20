@@ -16,7 +16,7 @@ Computer Science 20 students extend their understanding of software development 
 
 Computer Science 30 students explore hardware, software and associated processes at an advanced level. They extend their understanding of software development by moving from procedural programming approaches to an object -oriented approach. In the process they learn how object-oriented programming (OOP) can improve the efficiency and robustness of algorithm development and program construction. Students will continue their work in robotics programming by adding object-oriented programming (OOP) approaches to their skill set. In the process, they learn how to adapt their older procedure-based approaches to an object-oriented approach. They learn how to use object-oriented design approaches to design and write programs that use objects associated with one another in a client/server relationship. It is important to note that Computer Science 30 is an equivalent course that can be used for university entrance requirements.
 
-<iframe position="center" src="https://drive.google.com/file/d/16JjY7kM5ZaCmndZ0N5cdPz-LyKLbsXzL/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/16JjY7kM5ZaCmndZ0N5cdPz-LyKLbsXzL/preview" width="640" height="480"></iframe>
 
 **Bold** and _Italic_ and `Code` text
 
