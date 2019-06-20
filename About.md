@@ -1,3 +1,9 @@
+<a href="HomePage.md">Home</a>
+<a href="About.md">About</a>
+<a href="CSE10.md">Computer Science 10</a> 
+<a href="CSE20.md">Computer Science 20</a>
+<a href="CSE30.md">Computer Science 30</a>
+
 # About Me
 
 I am the Computer Science and Design Studies teacher at Leduc Composite High School. I am a passionate STEM education advocate in my community, and my focus is in increasing student efficacy and engagement in the classroom environment. Computer Science is a discipline centred around problem-solving and collaboration, and learning it is beneficial towards increasing student achievement in every area of education. I am active on Twitter, and my handle is @TeacherWain. 
