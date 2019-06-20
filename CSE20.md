@@ -1,9 +1,13 @@
 <a href="CSE10.md">Computer Science 10</a> 
 <a href="CSE20.md">Computer Science 20</a>
 <a href="CSE30.md">Computer Science 30</a>
+
 <br>
+
 # Computer Science 20
+
 <hr>
+
 ## CSE2010 Computer Science 2
 
 Students explore hardware, software and processes at an intermediate level. Students extend their understanding of software development by learning how to layer modular programming approaches over structured programming techniques to improve the efficiency and robustness of algorithms and programs. They also are introduced to derived data types to provide them with data structures suitable for more demanding problems. Students add to their understanding of the hardware side of computer science by exploring a stylized von Neumann computer system at the machine level, and of the social side of computer science by examining some of the issues that have arisen from the implementation of computer technology.
