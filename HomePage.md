@@ -1,4 +1,4 @@
-<a href="CSE10.md">Computer Science 10</a>
+<a href="CSE10.md">Computer Science 10</a> <a href="CSE20.md" position="center">Page 2</a>
 
 # COMPUTER SCIENCE IS FOR EVERYONE
 
